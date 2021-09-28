@@ -38,6 +38,7 @@ public class Dinasaur extends Animal {
         trex.setColor("green");
         System.out.println(trex.getColor());
         System.out.println("commiting");
+        System.out.println();
         trex.greet1();
 
 
